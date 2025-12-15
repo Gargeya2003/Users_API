@@ -82,6 +82,7 @@ SQLC
 Git
 
 🧩 Step-by-Step Setup
+
 1️⃣ Clone the Repository
 git clone <your-repo-url>
 cd users_api
